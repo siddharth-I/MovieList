@@ -1,0 +1,16 @@
+C:\Users\sidma\source\repos\MovieList\MovieList\bin\Debug\net5.0\MovieList.exe
+C:\Users\sidma\source\repos\MovieList\MovieList\bin\Debug\net5.0\MovieList.deps.json
+C:\Users\sidma\source\repos\MovieList\MovieList\bin\Debug\net5.0\MovieList.runtimeconfig.json
+C:\Users\sidma\source\repos\MovieList\MovieList\bin\Debug\net5.0\MovieList.runtimeconfig.dev.json
+C:\Users\sidma\source\repos\MovieList\MovieList\bin\Debug\net5.0\MovieList.dll
+C:\Users\sidma\source\repos\MovieList\MovieList\bin\Debug\net5.0\ref\MovieList.dll
+C:\Users\sidma\source\repos\MovieList\MovieList\bin\Debug\net5.0\MovieList.pdb
+C:\Users\sidma\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.csproj.AssemblyReference.cache
+C:\Users\sidma\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidma\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.AssemblyInfoInputs.cache
+C:\Users\sidma\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.AssemblyInfo.cs
+C:\Users\sidma\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\sidma\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.dll
+C:\Users\sidma\source\repos\MovieList\MovieList\obj\Debug\net5.0\ref\MovieList.dll
+C:\Users\sidma\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.pdb
+C:\Users\sidma\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.genruntimeconfig.cache
